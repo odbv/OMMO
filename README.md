@@ -8,4 +8,4 @@ A projekt fő inspirációja a RoAlgo szervezet által indított hasonló, ámb�
 
 Egy másik, hasonlóan közösségi-jellegű próbálkozás részemről egy Discord szerver létrehozása az erdélyi magyar diákok számára akik élveznek versenyezni: őszintén megvallva, nem sikerült annyira beínditani, viszont amennyiben tetszik a projekt, ajánlom a szerverre való belépést is, hiszen hasonló hozzáállású diákokkal lehet ott megismerkedni, illetve olyanról is tudomást lehet szerezni amiről néha még az emberek tanárai se tudnak. (Ez inkább szorványmegyék esetében érvényes.)
 
-[Ambiciózusok Klubja](https://discord.gg/uJJgJG4ASZ)
+## [Ambiciózusok Klubja](https://discord.gg/uJJgJG4ASZ)
