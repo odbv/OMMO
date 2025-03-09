@@ -12,6 +12,7 @@ Egy másik, hasonlóan közösségi-jellegű próbálkozás részemről egy Disc
 
 Előző évek oldalai:
 
+* [OMMO 2020](https://www.devatgi.ro/hu/bevezeto)
 * [OMMO 2022](https://ommo.bathory-kolozsvar.ro/)
 * [OMMO 2023](https://ommo.csikygergelyarad.ro/)
 * [OMMO 2024](https://www.nemethlaszlo.ro/ommo-2024)
