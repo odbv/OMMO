@@ -13,3 +13,4 @@ Előző évek oldalai:
 * [OMMO 2023](https://ommo.csikygergelyarad.ro/)
 * [OMMO 2024](https://www.nemethlaszlo.ro/ommo-2024)
 * [OMMO 2025](http://mag.ro/ommo)
+* [OMMO 2026](https://salamon.ro/home/ommo/)
